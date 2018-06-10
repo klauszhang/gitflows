@@ -1,1 +1,1 @@
-module.exports="foofoofoo"
+module.exports="ss"
