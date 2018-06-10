@@ -1,7 +1,7 @@
 const comp2=require('./comp2');
 
 describe('comp2', ()=>{
-  test('should be bar', ()=>{
-    expect(comp2).toBe('emmmm')
+  test('should be aa', ()=>{
+    expect(comp2).toBe('aa')
   })
 })
